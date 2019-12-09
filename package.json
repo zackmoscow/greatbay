@@ -1,0 +1,22 @@
+{
+  "name": "greatbay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inquire.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zackmoscow/greatbay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zackmoscow/greatbay/issues"
+  },
+  "homepage": "https://github.com/zackmoscow/greatbay#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
+}
