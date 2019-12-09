@@ -11,3 +11,6 @@ CREATE TABLE items (
   bid INT NULL,
   PRIMARY KEY (id)
 );
+
+INSERT INTO items (name, description, bid)
+VALUES ("Tutoring", "A one hour session to help you with your bootcamp homework", 20), ("MacBook Pro", "Used MacBook Pro from 2015", 800), ("Water Bottle", "Cheap and Disposable", 1);
